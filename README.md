@@ -233,7 +233,7 @@ If you're interested in **data, business, analytics, or building something usefu
 
 [![GitHub](https://img.shields.io/badge/GitHub-alaagewida-7B2CBF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/novalaa146)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-C77DFF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alaagewida8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-C77DFF?style=for-the-badge\&logo=gmail\&logoColor=white)](https//:alaagewida8@gmail.com)
 
 ---
 
