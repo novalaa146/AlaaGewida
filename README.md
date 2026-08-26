@@ -1,221 +1,248 @@
 # Hi, I'm A'laa Gewida 👋🏻💜
 
-### 📊 Data & Business Analyst | Analytics Mindset | Turning Data into Decisions
+### 📊 Data Analyst | Business Analyst | Analytics Enthusiast
 
-> *I don't just analyze data — I ask why, find the story behind it, and turn insights into better decisions.* ✨
+I turn **data into insights, insights into decisions, and decisions into business value.** ✨
 
-I'm a **Data & Business Analyst** passionate about transforming raw data into meaningful insights and business solutions.
+I'm a Business Administration student building my career around **Data Analytics, Business Intelligence, and Data-Driven Decision Making**.
 
-My analytical toolkit revolves around **Python, SQL Server, Excel, data visualization, and business analysis**. I enjoy exploring datasets, uncovering patterns, identifying problems, and communicating insights in a way that makes sense to both technical and business audiences.
+I enjoy working across the analytics lifecycle — from **data cleaning and SQL querying** to **exploratory analysis, visualization, dashboards, and business insights**.
 
-🌷 **Currently learning & building:** Data Analytics • Business Analytics • SQL • Python • Data Visualization • Analytics Projects
-
-🎯 **Career goal:** Build a strong career in Data/Business Analytics and work on data-driven problems with real business impact.
+> 🎀 **My mindset:** Don't just ask *"What happened?"*
+> Ask *"Why did it happen, what does it mean, and what should we do next?"*
 
 ---
 
-## 💜 My Analytics Mindset
+## 🌷 What I Do
+
+* 📥 **Collect & prepare data** for analysis
+* 🧹 **Clean and transform datasets**
+* 🔎 Perform **Exploratory Data Analysis (EDA)**
+* 🧠 Translate business questions into **analytical questions**
+* 🗄️ Query and manage data using **SQL Server**
+* 📊 Build **interactive dashboards & reports**
+* 📈 Create meaningful **data visualizations**
+* 💡 Identify **patterns, trends, KPIs & business insights**
+* 🎯 Communicate analytical findings to support **data-driven decisions**
+
+---
+
+## 💗 My Analytics Stack
+
+### 🐍 Python for Data Analysis
+
+![Python](https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-9D4EDD?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-C77DFF?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E0AAFF?style=for-the-badge\&logo=python\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-FF70A6?style=for-the-badge\&logo=python\&logoColor=white)
+
+**Data Analysis:**
+`Python` · `NumPy` · `Pandas`
+
+**Visualization:**
+`Matplotlib` · `Seaborn` · `Python Visualization`
+
+---
+
+### 🗄️ SQL & Data Engineering
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-FF4D8D?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-7B2CBF?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-9D4EDD?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-C77DFF?style=for-the-badge\&logo=microsoft\&logoColor=white)
+
+**SQL & BI:**
+`SQL Server` · `T-SQL` · `SSIS` · `SSAS` · `SSRS` · `SQLBI`
+
+**Data Warehousing:**
+`Star Schema` · `Dimensional Modeling` · `ETL` · `Fact & Dimension Tables`
+
+---
+
+### 📊 Business Intelligence & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-FF4D8D?style=for-the-badge\&logo=powerbi\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-7B2CBF?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-C77DFF?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+**BI & Visualization:**
+`Power BI` · `Tableau` · `Excel` · `SSRS` · `SQLBI`
+
+**Dashboarding:**
+`KPI Design` · `Data Storytelling` · `Interactive Dashboards` · `Business Reporting`
+
+---
+
+### 💻 Tools & Environment
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-7B2CBF?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-FF70A6?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C77DFF?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6A1B9A?style=for-the-badge\&logo=github\&logoColor=white)
+
+`Visual Studio` · `VS Code` · `Git` · `GitHub` · `Jupyter Notebook`
+
+---
+
+# 🌸 My Analytics Workflow
 
 ```text
-Raw Data
-   ↓
-🧹 Clean & Prepare
-   ↓
-🔎 Explore & Understand
-   ↓
-📊 Analyze & Find Patterns
-   ↓
-💡 Generate Insights
-   ↓
-📈 Visualize & Communicate
-   ↓
-🎯 Support Better Decisions
-```
-
-I believe good analytics is more than writing queries or creating charts.
-
-**The real question is:**
-
-> *"So what does the data tell us, and what should we do about it?"* 📊
-
----
-
-## 🌸 What I Do
-
-| 📌 Area                | 🔍 What I Work With                                                     |
-| ---------------------- | ----------------------------------------------------------------------- |
-| **Data Analysis**      | Exploratory Data Analysis, statistical analysis, pattern identification |
-| **Business Analysis**  | Business problems, KPIs, requirements, decision support                 |
-| **Data Cleaning**      | Missing values, duplicates, inconsistent data, transformation           |
-| **SQL**                | Data extraction, joins, aggregations, filtering, analytical queries     |
-| **Python**             | Data manipulation, analysis, automation                                 |
-| **Data Visualization** | Charts, dashboards, trends, comparisons, storytelling                   |
-| **Databases**          | SQL Server, relational databases, data warehousing                      |
-| **Analytics Mindset**  | Asking the right questions before analyzing the data                    |
-
----
-
-## 🛠️ My Data Analytics Toolkit
-
-### 🐍 Python & Data Analysis
-
-![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-C2185B?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-7B1FA2?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-AD1457?style=for-the-badge\&logo=python\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-6A1B9A?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 🗄️ SQL & Databases
-
-![SQL](https://img.shields.io/badge/SQL-8E24AA?style=for-the-badge\&logo=databricks\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-C2185B?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-
-### 💻 Development & Tools
-
-![VS Code](https://img.shields.io/badge/VS%20Code-7B1FA2?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-9C27B0?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-AD1457?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-4A148C?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📊 Featured Analytics Projects
-
-### 🛒 E-Commerce Data Warehouse & Analytics
-
-**SQL Server • Data Warehousing • ETL • Star Schema • Business Analytics**
-
-> Designing a data warehouse from raw e-commerce datasets and transforming operational data into an analytical model.
-
-**Key areas:**
-
-* 🗄️ Dimensional modeling
-* ⭐ Star schema design
-* 🔄 ETL processes
-* 🔑 Surrogate keys
-* 📊 Fact & dimension tables
-* 🔎 Analytical SQL queries
-* 💡 Business insights
-
-[![View Project](https://img.shields.io/badge/📂%20View%20Project-8E24AA?style=for-the-badge)](https://github.com/novalaa146)
-
----
-
-### 🐍 Python Data Analysis Projects
-
-**Python • Pandas • NumPy • Matplotlib • Seaborn**
-
-I build data analysis projects that follow an end-to-end workflow:
-
-```text
-Dataset
-   ↓
-Data Cleaning
-   ↓
-Data Exploration
-   ↓
-Statistical Analysis
-   ↓
-Visualization
-   ↓
-Business Questions
-   ↓
+Business Question
+       ↓
+Data Collection
+       ↓
+Data Cleaning & Transformation
+       ↓
+Exploratory Data Analysis
+       ↓
+Statistical / Business Analysis
+       ↓
+Visualization & Dashboarding
+       ↓
 Insights & Recommendations
+       ↓
+📊 Data-Driven Decision
 ```
 
-[![Explore My Repositories](https://img.shields.io/badge/🔎%20Explore%20Repositories-C2185B?style=for-the-badge)](https://github.com/novalaa146?tab=repositories)
+I believe a strong analyst doesn't stop at creating a dashboard.
+
+**The real goal is to understand the story behind the data.**
 
 ---
 
-## 🧠 How I Approach a Data Problem
+# 📊 Featured Analytics Projects
 
-```text
-❓ 1. Define the Business Question
-        ↓
-📦 2. Understand the Data
-        ↓
-🧹 3. Clean & Prepare
-        ↓
-🔍 4. Explore the Data
-        ↓
-📊 5. Analyze
-        ↓
-💡 6. Find Insights
-        ↓
-📈 7. Communicate the Story
-        ↓
-🎯 8. Recommend an Action
-```
+### 🛒 E-Commerce Data Warehouse & BI
 
-### My rule:
+**SQL Server · ETL · Dimensional Modeling · Power BI**
 
-**Don't start with the chart. Start with the question.** 💜
+> Designed a data warehouse using fact and dimension tables to transform raw e-commerce data into an analytical model.
+
+**Focus areas:**
+
+* 🗄️ Data warehouse architecture
+* 🔄 ETL pipelines
+* ⭐ Star schema
+* 📊 Sales & customer analysis
+* 📈 KPI development
+* 💡 Business intelligence
 
 ---
 
-## 🌷 Currently Growing
+### 🐍 Python Exploratory Data Analysis
 
-* 📊 Building a stronger Data Analytics portfolio
-* 🐍 Improving Python for data analysis
-* 🗄️ Developing advanced SQL & SQL Server skills
-* 📈 Improving data visualization & storytelling
-* 💼 Developing Business Analysis skills
-* 🧠 Strengthening my analytical & problem-solving mindset
-* 🚀 Building projects around real-world business problems
+**Python · Pandas · NumPy · Seaborn · Matplotlib**
 
----
+> Exploring real-world datasets to discover trends, relationships, anomalies, and actionable business insights.
 
-## 💼 Let's Connect
+**Analysis includes:**
 
-I'm always interested in:
-
-**📊 Data Analytics • 💼 Business Analytics • 🧠 Data-Driven Decision Making • 🤝 Collaboration • 🚀 Interesting Projects**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A'laa%20Gewida-8E24AA?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alaagewida/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-novalaa146-4A148C?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/novalaa146)
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-C2185B?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alaagewida8@gmail.com)
+* Data cleaning
+* Missing-value analysis
+* Descriptive statistics
+* Correlation analysis
+* Outlier detection
+* Exploratory visualization
+* Business insights
 
 ---
 
-## 📈 GitHub Analytics
+### 📈 Business Intelligence Dashboards
 
-<p align="center">
+**Power BI · Tableau · Excel · SQL**
 
-<img src="https://github-readme-stats.vercel.app/api?username=novalaa146&show_icons=true&theme=radical&hide_border=true&title_color=C2185B&icon_color=8E24AA" />
+> Transforming raw datasets into clear, interactive dashboards designed around business questions and KPIs.
 
-</p>
+**Dashboard focus:**
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novalaa146&layout=compact&theme=radical&hide_border=true&title_color=C2185B" />
-
-</p>
-
----
-
-## 💗 A Little About Me
-
-```text
-📊 Data        → My way of understanding the world
-🧠 Curiosity   → My favorite analytical tool
-💡 Questions   → Where every analysis starts
-📈 Insights    → What I aim to create
-🎯 Decisions   → Where analytics creates value
-🌷 Pink        → Because professional doesn't have to mean boring
-```
+* Sales performance
+* Customer behavior
+* Revenue trends
+* Operational KPIs
+* Business performance
+* Data storytelling
 
 ---
 
-<h3 align="center">
+# 🧠 My Analytics Mindset
 
-💜 Analyze. Understand. Communicate. Improve. 💜
+### I don't just make charts. 📊
 
-</h3>
+I ask:
 
-<p align="center">
+**1. What happened?**
+→ Descriptive Analytics
 
-⭐ If you find one of my projects useful, feel free to star it!
+**2. Why did it happen?**
+→ Diagnostic Analytics
 
-</p>
+**3. What is likely to happen?**
+→ Predictive Thinking
+
+**4. What should we do about it?**
+→ Prescriptive Thinking
+
+> 💗 **Data is only valuable when it helps people make better decisions.**
+
+---
+
+# 🌱 Currently Growing
+
+I'm continuously developing my skills in:
+
+* 📊 Advanced Data Analytics
+* 🧠 Business Intelligence
+* 🐍 Python for Data Analysis
+* 🗄️ SQL & Database Development
+* 📈 Power BI & Data Visualization
+* 📐 Data Warehousing & ETL
+* 📖 Data Storytelling
+* 💼 Business & Financial Analytics
+* 🤖 AI-assisted Analytics
+
+---
+
+# 🎀 What You'll Find Here
+
+My GitHub is where I document my journey from **business questions → data → analysis → insights**.
+
+Expect to find:
+
+📂 Data Analysis Projects
+📊 Power BI Dashboards
+📈 Tableau Visualizations
+🐍 Python EDA Projects
+🗄️ SQL Projects
+🏗️ Data Warehouse Projects
+🔄 ETL / SSIS Projects
+📑 Business Intelligence Reports
+🧠 Analytics Experiments
+
+---
+
+# 💼 Let's Connect
+
+I'm interested in connecting with people working in:
+
+**Data Analytics · Business Analytics · Business Intelligence · Data Science · AI · Consulting**
+
+If you're interested in **data, business, analytics, or building something useful with data**, let's connect! 💗
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A'laa%20Gewida-FF4D8D?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alaagewida/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-alaagewida-7B2CBF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/novalaa146)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-C77DFF?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alaagewida8@gmail.com)
+
+---
+
+<div align="center">
+
+### 💗 Turning Data Into Decisions 📊
+
+**Data Analytics • Business Intelligence • Data Storytelling**
+
+✨ *Curious about data. Serious about insights.* ✨
+
+</div>
